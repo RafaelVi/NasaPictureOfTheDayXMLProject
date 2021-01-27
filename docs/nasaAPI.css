@@ -11,3 +11,7 @@ footer{
     justify-content: center;
     place-content: space-around;
 }
+iframe{
+    width: 960px;
+    height: 540px;
+}
